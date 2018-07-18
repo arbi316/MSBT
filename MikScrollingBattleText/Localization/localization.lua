@@ -81,6 +81,8 @@ L.MSG_STATIC			= "Static"
 
 L.MSG_COMBAT					= "Combat"
 L.MSG_DISPEL					= "Dispel"
+L.MSG_AC						= "Arcane Charge"
+L.MSG_AC_FULL					= "Arcane Charge Full"
 L.MSG_CP						= "CP"
 L.MSG_CHI_FULL					= "Full Chi"
 L.MSG_CP_FULL					= "Finish It"
