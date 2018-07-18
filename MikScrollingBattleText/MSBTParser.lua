@@ -24,6 +24,7 @@ local GetTime = GetTime
 local UnitClass = UnitClass
 local UnitGUID = UnitGUID
 local UnitName = UnitName
+local CombatLogGetCurrentEventInfo = CombatLogGetCurrentEventInfo
 local Print = MikSBT.Print
 local EraseTable = MikSBT.EraseTable
 
